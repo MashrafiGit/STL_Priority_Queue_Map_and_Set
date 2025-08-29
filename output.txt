@@ -1,6 +1,7 @@
-abid 0
-hamim 3
-nazim 1
-tamim 5
-
-It has
+cricket 1
+football 2
+he 1
+i 1
+love 2
+loves 1
+they 1
