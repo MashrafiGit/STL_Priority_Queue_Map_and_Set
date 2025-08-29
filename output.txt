@@ -1,3 +1,6 @@
-akib 47 97
-sakib 12 85
-rakib 44 85
+abid 0
+hamim 3
+nazim 1
+tamim 5
+
+It has
